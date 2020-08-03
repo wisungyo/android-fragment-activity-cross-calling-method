@@ -4,9 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context=".ActivityFragment"
-    android:tag="@string/activity_fragment_tag"
-    android:id="@+id/activity_fragment_id">
+    tools:context=".ActivityFragment">
 
     <ImageView
         android:layout_width="match_parent"
